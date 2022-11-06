@@ -1,0 +1,9 @@
+[submodule "esn-edge-sensor"]
+	path = esn-edge-sensor
+	url = git@github.com:Lomolisso/esn-edge-sensor.git
+[submodule "esn-edge-gateway"]
+	path = esn-edge-gateway
+	url = git@github.com:Lomolisso/esn-edge-gateway.git
+[submodule "esn-pwa-dockerized"]
+	path = esn-pwa-dockerized
+	url = git@github.com:Lomolisso/esn-pwa-dockerized.git
